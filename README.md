@@ -12,7 +12,6 @@ Computer sicence and engeenering in Handong Global University
 </div>
 <h3>Project Repositories</h3>
 <ul>
-  <li><a href="https://github.com/gurcks8989/2048">2048 - Java Project</a></li>
   <li><a href="https://github.com/gurcks8989/OSSL">Grade Management System - C Project</a></li>
   <li><a href="https://github.com/gurcks8989/Flutter">Application Development - Flutter/Dart Project</a></li>
 </ul>
