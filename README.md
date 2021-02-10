@@ -1,13 +1,11 @@
 <h2>👋 Hello, Everyone!</h2>
 <h3>Portfolio</h3><div>
-2017.02 ~ 2017.12
-Freshman in Handong Global University
-
-2018.01 ~ 2019.09
-The Republic of Korea Marine Corps - 1230期
-
-2020.02 ~ present
-Computer sicence and engeenering in Handong Global University
+2017.02 ~ 2017.12<br>
+  <ul><li>Freshman in Handong Global University</li></ul><br>
+2018.01 ~ 2019.09<br>
+  <ul><li>The Republic of Korea Marine Corps - 1230期</li></ul><br>
+2020.02 ~ present<br>
+  <ul><li>Computer sicence and engeenering in Handong Global University</li></ul>
 
 </div>
 <h3>Project Repositories</h3>
