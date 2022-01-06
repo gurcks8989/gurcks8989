@@ -16,7 +16,7 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://coding-leaf.tistory.com/">HyeokChan's Blog</a>
-<h3>Goals for 2021</h3>
+<h3>Goals for 2022</h3>
 <ul>
   <li>Complete my own Portfolio</li>
   <li>Developing the Application on Project</li>
