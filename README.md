@@ -29,12 +29,14 @@
 </ul>
 
 <h3>BaekJoon Coding Test Rank</h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurcks8989)](https://solved.ac/gurcks8989) 
 
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
 <h3>GitHub</h3>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gurcks8989&show_icons=true&theme=dracula)
 
 <!--
