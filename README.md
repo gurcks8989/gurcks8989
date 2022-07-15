@@ -1,13 +1,15 @@
 <h2>👋 Hello, Everyone!</h2>
 <h3>Portfolio</h3><div>
 2017.02 ~ 2017.12<br>
-  <ul><li>Freshman in Handong Global University</li></ul><br>
+  <ul><li>Freshman in Handong Global University</li></ul>
 2018.01 ~ 2019.09<br>
-  <ul><li>The Republic of Korea Marine Corps - 1230期</li></ul><br>
+  <ul><li>The Republic of Korea Marine Corps - 1230期</li></ul>
 2020.02 ~ present<br>
   <ul><li>Computer sicence and engeenering in Handong Global University</li></ul>
+2022.06.22 ~ 2022.06.24<br>
+  <ul><li>SW중심대학 공동해커톤 개발자 참여</li></ul>
+</div><br>
 
-</div>
 <h3>Project Repositories</h3>
 <ul>
   <li><a href="https://github.com/gurcks8989/OSSL">Grade Management System - C Project</a></li>
@@ -26,9 +28,13 @@
   <li>1 Day, 1 Commit</li>
 </ul>
 
+<h3>BaekJoon Coding Test Rank</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurcks8989)](https://solved.ac/gurcks8989) 
+
+
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
-
+<h3>GitHub</h3>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gurcks8989&show_icons=true&theme=dracula)
 
 <!--
