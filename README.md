@@ -12,6 +12,7 @@
 
 <h3>Project Repositories</h3>
 <ul>
+  <li><a href="https://github.com/gurcks8989/CodingTest/tree/master/BaekJoon">1 Day, 1 Solve - BaekJoon Coding Stude</a></li>
   <li><a href="https://github.com/gurcks8989/OSSL">Grade Management System - C Project</a></li>
   <li><a href="https://github.com/gurcks8989/Flutter">Application Development - Flutter/Dart Project</a></li>
   <li><a href="https://springcamp.herokuapp.com">Make Market Kurly by Mirroring - Spring Project</a></li>
