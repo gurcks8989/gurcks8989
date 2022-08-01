@@ -25,6 +25,7 @@
   <li>Complete my own Portfolio</li>
   <li>Developing the Application on Project</li>
   <li>Studing "Deep Learning"</li>
+  <li>Studing "Flutter"</li>
   <li>Create my own Engineering Blog in Tstory</li>
   <li>1 Day, 1 Commit</li>
 </ul>
