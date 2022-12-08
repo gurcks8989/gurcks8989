@@ -7,7 +7,7 @@
 2020.02 ~ present<br>
   <ul><li>Computer sicence and engeenering in Handong Global University</li></ul>
 2020.07.20 ~ 2020.08.27 (160 Hours) <br>
-  <ul><li>정보통신산업진흥원에서 시행한 인공지능 기본과정 - AI 기술 활용</li></ul>
+  <ul><li>정보통신산업진흥원에서 시행한 인공지능 기본과정 - AI 기술 활용 [Python] </li></ul>
 2022.06.22 ~ 2022.06.24<br>
   <ul><li>SW중심대학 공동해커톤 개발자 참여</li></ul>
 </div><br>
