@@ -4,12 +4,15 @@
   <ul><li>Freshman in Handong Global University</li></ul>
 2018.01 ~ 2019.09<br>
   <ul><li>The Republic of Korea Marine Corps - 1230期</li></ul>
-2020.02 ~ present<br>
+2020.02 ~ 2023.02<br>
   <ul><li>Computer sicence and engeenering in Handong Global University</li></ul>
 2020.07.20 ~ 2020.08.27 (160 Hours) <br>
   <ul><li>정보통신산업진흥원에서 시행한 인공지능 기본과정 - AI 기술 활용 [Python] </li></ul>
 2022.06.22 ~ 2022.06.24<br>
   <ul><li>SW중심대학 공동해커톤 개발자 참여</li></ul>
+</div><br>
+2022.01.31 ~ present<br>
+  <ul><li>Flanlabs - Front-end 개발자</li></ul>
 </div><br>
 
 <h3>Project Repositories</h3>
@@ -22,7 +25,15 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://coding-leaf.tistory.com/">HyeokChan's Blog</a>
-<h3>Goals for 2022</h3>
+
+<h3>Tech Skill</h3>
+<ul>
+  <li>📱 Mobile - Flutter, React-Native[learning] </li>
+  <li>🖥️ Web - Spring, Struts, React</li>
+  <li>🧑‍💻 Programming Language - C++, Java(dart, js, ts, ...), Python</li>
+</ul>
+<!-- 
+<h3>Goals for 2023</h3>
 <ul>
   <li>Complete my own Portfolio</li>
   <li>Developing the Application on Project</li>
@@ -31,7 +42,7 @@
   <li>Create my own Engineering Blog in Tstory</li>
   <li>1 Day, 1 Commit</li>
 </ul>
-
+ -->
 <h3>BaekJoon Coding Test Rank</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurcks8989)](https://solved.ac/gurcks8989) 
