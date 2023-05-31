@@ -32,9 +32,10 @@ Portfolio
 
 ### Tech Skill
 
-- 📱 Mobile - <img width="11" height="11" src="/icons/flutter.png" /> Flutter, <img width="11" height="11" src="/icons/react.ico" /> React-Native[📚learning]
-- 🖥️ Web - <img width="11" height="11" src="/icons/spring.png" /> Spring, <img width="9" height="11" src="/icons/struts.png" /> Struts2, <img width="11" height="11" src="/icons/react.ico" /> React
 - 🧑‍💻 Programming Language - C++, Java(dart, js, ts, ...), Python
+- 📱 Mobile - <img width="11" height="11" src="/icons/flutter.png" /> Flutter, <img width="11" height="11" src="/icons/react.ico" /> React-Native[📚learning...]
+- 🖥️ Web - <img width="11" height="11" src="/icons/spring.png" /> Spring, <img width="9" height="11" src="/icons/struts.png" /> Struts2, <img width="11" height="11" src="/icons/react.ico" /> React
+- 🫙 DataBase - mySQL[mariaDB], <img width="11" height="11" src="/icons/postgresql.ico" /> PostgreSQL, <img width="9" height="11" src="/icons/mongodb.ico" /> MongoDB[📚learning...]
 <!-- 
 <h3>Goals for 2023</h3>
 <ul>
