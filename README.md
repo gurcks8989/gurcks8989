@@ -10,7 +10,6 @@
   <ul><li>정보통신산업진흥원에서 시행한 인공지능 기본과정 - AI 기술 활용 [Python] </li></ul>
 2022.06.22 ~ 2022.06.24<br>
   <ul><li>SW중심대학 공동해커톤 개발자 참여</li></ul>
-</div><br>
 2022.01.31 ~ present<br>
   <ul><li>Flanlabs - Front-end 개발자</li></ul>
 </div><br>
@@ -28,8 +27,8 @@
 
 <h3>Tech Skill</h3>
 <ul>
-  <li>📱 Mobile - Flutter, React-Native[learning] </li>
-  <li>🖥️ Web - Spring, Struts, React</li>
+  <li>📱 Mobile - <img width="15" height="15" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" /> Flutter, <img width="15" height="15" src="https://reactnative.dev/img/favicon.ico" /> React-Native[📚learning] </li>
+  <li>🖥️ Web - <img width="15" height="15" src="https://spring.io/icons/icon-48x48.png?v=96334d577af708644f6f0495dd1c7bc8" /> Spring, Struts2, React</li>
   <li>🧑‍💻 Programming Language - C++, Java(dart, js, ts, ...), Python</li>
 </ul>
 <!-- 
